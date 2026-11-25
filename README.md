@@ -66,7 +66,7 @@
 
 Aeroz provides supply chain traceability and product authentication solutions for regulated goods. Their platform uses NFC/UHF chips and GS1 2D codes to give each unit a unique identity, recording custody events via GS1 EPCIS 2.0. It supports compliance with DSCSA, EU Digital Product Passport, battery regulations, and other global standards, offering a secure, end‑to‑end digital product passport and connected packaging.
 
-**Areas:** Company · SupplyChain · Traceability · Authentication · Compliance · NFC
+**Areas:** Company · Supply Chain · Traceability · Authentication · Compliance · NFC
 
 ## Aeroz on APIs.io
 
@@ -84,7 +84,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Aeroz Io Agentic Access](https://apis.io/agentic-access/aeroz-io/aeroz-io-agentic-access/)
+- [Aeroz Agentic Access](https://apis.io/agentic-access/aeroz-io/aeroz-io-agentic-access/)
 
 #### Governance rules (1)
 
@@ -96,9 +96,9 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Aeroz Io Authentication](https://apis.io/security/aeroz-io/aeroz-io-authentication/)
-- [Aeroz Io Domain Security](https://apis.io/security/aeroz-io/aeroz-io-domain-security/)
-- [Aeroz Io Vulnerability Disclosure](https://apis.io/security/aeroz-io/aeroz-io-vulnerability-disclosure/)
+- [Aeroz Authentication](https://apis.io/security/aeroz-io/aeroz-io-authentication/)
+- [Aeroz Domain Security](https://apis.io/security/aeroz-io/aeroz-io-domain-security/)
+- [Aeroz Vulnerability Disclosure](https://apis.io/security/aeroz-io/aeroz-io-vulnerability-disclosure/)
 
 ## Where to find this API
 
@@ -115,25 +115,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 31.9** — thin · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 29.6** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
+| Discoverability | 83.9 |
 | Contract quality | 0.0 |
-| Contract governance | 65.5 |
-| Operational transparency | 10.5 |
+| Contract governance | 18.2 |
+| Operational transparency | 9.5 |
 | Developer ergonomics | 47.6 |
-| Access clarity | 21.1 |
+| Access clarity | 29.8 |
 
-**Agent readiness 13.5** — agent-aware
+**Agent readiness 8.5** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
-| Agentic Access | unknown |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | bearer (partial credit) |
 | Idempotency | — |
 | Error Semantics | — |
@@ -141,7 +141,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | flavored (partial credit) |
 | Dry Run Mode | — |
@@ -151,6 +151,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 30.4** — Horizontal (data, software, accessibility, platform)
 
